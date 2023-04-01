@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fubol/static/css/main.fbefd0a4.css",
+    "main.js": "/fubol/static/js/main.6a859cbc.js",
+    "static/media/drupi.gif": "/fubol/static/media/drupi.2811c9e208155eebe236.gif",
+    "static/media/monke.gif": "/fubol/static/media/monke.de486673026abee16287.gif",
+    "static/media/pulpo.png": "/fubol/static/media/pulpo.8440059417f807e9ad8c.png",
+    "static/media/manu.png": "/fubol/static/media/manu.8b32ec37ebd33b73533c.png",
+    "static/media/joaco.png": "/fubol/static/media/joaco.31982313c301b0e2048f.png",
+    "static/media/chapo.png": "/fubol/static/media/chapo.338c16c1cb9c3ecde8f8.png",
+    "static/media/pes.png": "/fubol/static/media/pes.d69d8800c319106313a2.png",
+    "static/media/lore.png": "/fubol/static/media/lore.f0005ccd45f2af0d7abe.png",
+    "static/media/fran.png": "/fubol/static/media/fran.f4b495f8873a0057a6f6.png",
+    "index.html": "/fubol/index.html",
+    "main.fbefd0a4.css.map": "/fubol/static/css/main.fbefd0a4.css.map",
+    "main.6a859cbc.js.map": "/fubol/static/js/main.6a859cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbefd0a4.css",
+    "static/js/main.6a859cbc.js"
+  ]
+}
