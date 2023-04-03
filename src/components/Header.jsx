@@ -89,7 +89,7 @@ export const Header = () => {
                             <tbody key={jugador.id}>
                                 <tr>
 
-                                    <td className="d-flex">{i++}{i - 1 === 1 ? " 🥇" : i - 1 === 2 ? " 🥈" : i - 1 === 3 ? " 🥉" : i - 1 === 7 ? " 👻" : <p></p>}</td>
+                                    <td className="d-flex">{i++}{i - 1 === 1 ? " 🥇" : i - 1 === 2 ? " 🥈" : i - 1 === 3 ? " 🥉" : i - 1 === 8 ? " 👻" : <p></p>}</td>
                                     <td>{jugador.nombre}</td>
                                     <td>{jugador.goles}</td>
                                     <td>{jugador.ganados}</td>
