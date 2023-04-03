@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fubol/static/css/main.fbefd0a4.css",
-    "main.js": "/fubol/static/js/main.6a859cbc.js",
+    "main.js": "/fubol/static/js/main.28a32784.js",
     "static/media/drupi.gif": "/fubol/static/media/drupi.2811c9e208155eebe236.gif",
     "static/media/monke.gif": "/fubol/static/media/monke.de486673026abee16287.gif",
     "static/media/pulpo.png": "/fubol/static/media/pulpo.8440059417f807e9ad8c.png",
@@ -13,10 +13,10 @@
     "static/media/fran.png": "/fubol/static/media/fran.f4b495f8873a0057a6f6.png",
     "index.html": "/fubol/index.html",
     "main.fbefd0a4.css.map": "/fubol/static/css/main.fbefd0a4.css.map",
-    "main.6a859cbc.js.map": "/fubol/static/js/main.6a859cbc.js.map"
+    "main.28a32784.js.map": "/fubol/static/js/main.28a32784.js.map"
   },
   "entrypoints": [
     "static/css/main.fbefd0a4.css",
-    "static/js/main.6a859cbc.js"
+    "static/js/main.28a32784.js"
   ]
 }
