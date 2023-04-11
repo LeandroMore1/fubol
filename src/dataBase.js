@@ -7,7 +7,8 @@ export const pibes = [
 {id: 5,nombre: "Lore", goles: 2,  ganados: 0,  perdidos: 1, mvp: 0},
 {id: 6,nombre: "Pes", goles: 24,  ganados: 3,  perdidos: 2, mvp: 1},
 {id: 7,nombre: "Chapo", goles: 20,  ganados: 3,  perdidos:2, mvp: 1},
-{id: 8,nombre: "Drupi", goles: 8,  ganados: 2,  perdidos: 0, mvp: 0}
+{id: 8,nombre: "Drupi", goles: 8,  ganados: 2,  perdidos: 0, mvp: 0},
+{id: 9,nombre: "Juli", goles: 0,  ganados: 0,  perdidos: 0, mvp: 0}
 ]
 
                     

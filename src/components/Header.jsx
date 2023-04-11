@@ -9,6 +9,7 @@ import drupi from "./drupi.gif"
 import manolo from "./manu.png"
 import pulpo from "./pulpo.png"
 import monke from "./monke.gif"
+import juli from "./juli.png"
 import "../components/Header.css"
 
 export const Header = () => {
@@ -58,13 +59,14 @@ export const Header = () => {
             <img src={manolo} alt="" />
             <img src={fran} alt="" />
             <img src={pulpo} alt="" />
+            <img src={juli} alt="" />
             </div>
            <h1>Tabla de posiciones:</h1>
             <div className="containersub">
                 <h2>Goleador 🦍: </h2>
                 <img className="imgSub" src={pes} alt="" />
                 <h2>El muerto 🐕: </h2>
-                <img className="imgSub" src={lore} alt="" />
+                <img className="imgSub" src={juli} alt="" />
                 <h2>Mejor jugador 🏆: </h2>
                 <img className="imgSub" src={pes} alt="" />
             </div>
@@ -89,7 +91,7 @@ export const Header = () => {
                             <tbody key={jugador.id}>
                                 <tr>
 
-                                    <td className="d-flex">{i++}{i - 1 === 1 ? " 🥇" : i - 1 === 2 ? " 🥈" : i - 1 === 3 ? " 🥉" : i - 1 === 8 ? " 👻" : <p></p>}</td>
+                                    <td className="d-flex">{i++}{i - 1 === 1 ? " 🥇" : i - 1 === 2 ? " 🥈" : i - 1 === 3 ? " 🥉" : i - 1 === 9 ? " 👻" : <p></p>}</td>
                                     <td>{jugador.nombre}</td>
                                     <td>{jugador.goles}</td>
                                     <td>{jugador.ganados}</td>
