@@ -65,7 +65,7 @@ export const Header = () => {
             <div className="containersub">
                 <div className="contSub">
                 <h2>Goleador 🦍: </h2>
-                <img className="imgSub" src={pes} alt="" />
+                <img className="imgSub" src={chapo} alt="" />
                 </div>
                 <div className="contSub">
                 <h2>El muerto 🐕: </h2>
