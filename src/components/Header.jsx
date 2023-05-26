@@ -16,11 +16,6 @@ export const Header = () => {
 
     const [muchachos, setMuchachos] = useState([])
     
-    let nomb = muchachos.map(el=> el.nombre)
-    let bestPlayer = muchachos.find(el=> Math.max(el.mvp))
-    let i = 1 
-    
-    
     const compare = (a, b) => {
         if (a.goles < b.goles) {
             return 1;
